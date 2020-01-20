@@ -1,2 +1,3 @@
 # ITMO
-projects for itmo
+projects for durka
+
