@@ -1,3 +1,3 @@
 # ITMO
-projects for durka
+projects for ball action
 
